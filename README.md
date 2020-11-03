@@ -1,5 +1,9 @@
 # Document-image-binarization
-Using Neural Networks to create do one of the preprocessing steps in OCR i.e Document Image Binarization
+Using Neural Networks to create do one of the preprocessing steps in OCR i.e Document Image Binarization. 
+
+## Dataset
+
+The dataset consists of scanned images of telugu novels and their binary images (Binary Images made by using a threshold).
 
 ## Original Image
 
